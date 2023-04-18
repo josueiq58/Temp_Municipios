@@ -1,0 +1,13 @@
+__main__ – INFO – 2023-04-16 17:04:04 – Starting the process
+data_processor – INFO – 2023-04-16 17:04:04 – Downloading data from API
+data_processor – INFO – 2023-04-16 17:04:05 – Response from the API: 200
+data_processor – INFO – 2023-04-16 17:04:05 – Data succesfully written to daily.gz
+data_processor – INFO – 2023-04-16 17:04:05 – Downloading data from API
+data_processor – INFO – 2023-04-16 17:04:10 – Response from the API: 200
+data_processor – INFO – 2023-04-16 17:04:10 – Data succesfully written to hourly.gz
+data_processor – INFO – 2023-04-16 17:04:10 – Uncompressing data
+data_processor – INFO – 2023-04-16 17:04:10 – Data uncompressed successfully
+data_processor – INFO – 2023-04-16 17:04:10 – Uncompressing data
+data_processor – INFO – 2023-04-16 17:04:11 – Data uncompressed successfully
+data_processor – INFO – 2023-04-16 17:04:35 – Converting dloc column to timestamp
+data_processor – INFO – 2023-04-16 17:04:38 – Getting the average temperature and precipitation of last 2 days

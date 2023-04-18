@@ -1,0 +1,58 @@
+__main__ – INFO – 2023-04-16 17:12:55 – Starting the process
+data_processor – INFO – 2023-04-16 17:12:55 – Downloading data from API
+data_processor – INFO – 2023-04-16 17:12:56 – Response from the API: 200
+data_processor – INFO – 2023-04-16 17:12:56 – Data succesfully written to daily.gz
+data_processor – INFO – 2023-04-16 17:12:56 – Downloading data from API
+data_processor – INFO – 2023-04-16 17:13:01 – Response from the API: 200
+data_processor – INFO – 2023-04-16 17:13:01 – Data succesfully written to hourly.gz
+data_processor – INFO – 2023-04-16 17:13:01 – Uncompressing data
+data_processor – INFO – 2023-04-16 17:13:01 – Data uncompressed successfully
+data_processor – INFO – 2023-04-16 17:13:02 – Uncompressing data
+data_processor – INFO – 2023-04-16 17:13:03 – Data uncompressed successfully
+data_processor – INFO – 2023-04-16 17:13:30 – Converting dloc column to timestamp
+data_processor – INFO – 2023-04-16 17:13:33 – Getting the average temperature and precipitation of last 2 days
+__main__ – INFO – 2023-04-16 17:13:56 – Starting the process
+data_processor – INFO – 2023-04-16 17:13:56 – Downloading data from API
+data_processor – INFO – 2023-04-16 17:13:57 – Response from the API: 404
+data_processor – INFO – 2023-04-16 17:13:57 – Data succesfully written to daily.gz
+data_processor – INFO – 2023-04-16 17:13:57 – Downloading data from API
+data_processor – INFO – 2023-04-16 17:14:02 – Response from the API: 200
+data_processor – INFO – 2023-04-16 17:14:02 – Data succesfully written to hourly.gz
+data_processor – INFO – 2023-04-16 17:14:02 – Uncompressing data
+__main__ – INFO – 2023-04-16 17:28:07 – Starting the process
+data_processor – INFO – 2023-04-16 17:28:07 – Downloading data from API
+data_processor – INFO – 2023-04-16 17:28:08 – Response from the API: 404
+data_processor – INFO – 2023-04-16 17:28:08 – Data succesfully written to daily.gz
+data_processor – INFO – 2023-04-16 17:28:08 – Downloading data from API
+data_processor – INFO – 2023-04-16 17:28:09 – Response from the API: 404
+data_processor – INFO – 2023-04-16 17:28:09 – Data succesfully written to hourly.gz
+data_processor – INFO – 2023-04-16 17:28:09 – Uncompressing data
+__main__ – INFO – 2023-04-16 17:28:33 – Starting the process
+data_processor – INFO – 2023-04-16 17:28:33 – Downloading data from API
+data_processor – INFO – 2023-04-16 17:28:34 – Response from the API: 404
+data_processor – INFO – 2023-04-16 17:28:34 – Data succesfully written to daily.gz
+data_processor – INFO – 2023-04-16 17:28:34 – Downloading data from API
+data_processor – INFO – 2023-04-16 17:28:39 – Response from the API: 200
+data_processor – INFO – 2023-04-16 17:28:39 – Data succesfully written to hourly.gz
+data_processor – INFO – 2023-04-16 17:28:39 – Uncompressing data
+__main__ – INFO – 2023-04-16 17:41:49 – Starting the process
+data_processor – INFO – 2023-04-16 17:41:49 – Downloading data from API
+data_processor – INFO – 2023-04-16 17:41:51 – Response from the API: 404
+data_processor – INFO – 2023-04-16 17:41:51 – Data succesfully written to daily.gz
+data_processor – INFO – 2023-04-16 17:41:51 – Downloading data from API
+data_processor – INFO – 2023-04-16 17:41:56 – Response from the API: 200
+data_processor – INFO – 2023-04-16 17:41:56 – Data succesfully written to hourly.gz
+data_processor – INFO – 2023-04-16 17:41:56 – Uncompressing data
+__main__ – INFO – 2023-04-16 17:57:16 – Starting the process
+data_processor – INFO – 2023-04-16 17:57:16 – Downloading data from API
+data_processor – INFO – 2023-04-16 17:57:18 – Response from the API: 200
+data_processor – INFO – 2023-04-16 17:57:18 – Data succesfully written to daily.gz
+data_processor – INFO – 2023-04-16 17:57:18 – Downloading data from API
+data_processor – INFO – 2023-04-16 17:57:24 – Response from the API: 200
+data_processor – INFO – 2023-04-16 17:57:24 – Data succesfully written to hourly.gz
+data_processor – INFO – 2023-04-16 17:57:24 – Uncompressing data
+data_processor – INFO – 2023-04-16 17:57:24 – Data uncompressed successfully
+data_processor – INFO – 2023-04-16 17:57:25 – Uncompressing data
+data_processor – INFO – 2023-04-16 17:57:26 – Data uncompressed successfully
+data_processor – INFO – 2023-04-16 17:57:54 – Converting dloc column to timestamp
+data_processor – INFO – 2023-04-16 17:57:56 – Getting the average temperature and precipitation of last 2 days

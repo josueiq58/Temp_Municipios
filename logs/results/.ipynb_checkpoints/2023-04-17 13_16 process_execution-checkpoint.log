@@ -1,0 +1,18 @@
+data_processor – INFO – 2023-04-17 13:16:36 – Downloading data from API
+data_processor – INFO – 2023-04-17 13:16:37 – Response from the API: 200
+data_processor – INFO – 2023-04-17 13:16:37 – Data succesfully written to daily.gz
+data_processor – INFO – 2023-04-17 13:16:37 – Downloading data from API
+data_processor – INFO – 2023-04-17 13:16:43 – Response from the API: 200
+data_processor – INFO – 2023-04-17 13:16:43 – Data succesfully written to hourly.gz
+data_processor – INFO – 2023-04-17 13:16:43 – Uncompressing data
+data_processor – INFO – 2023-04-17 13:16:44 – Data uncompressed successfully
+data_processor – INFO – 2023-04-17 13:16:44 – Uncompressing data
+data_processor – INFO – 2023-04-17 13:16:45 – Data uncompressed successfully
+data_processor – INFO – 2023-04-17 13:17:10 – Getting file names of data_municipios directory
+data_processor – INFO – 2023-04-17 13:17:10 – Reading most current file
+data_processor – INFO – 2023-04-17 13:17:10 – The file was read succesfully
+data_processor – INFO – 2023-04-17 13:17:10 – Converting dloc column to timestamp
+data_processor – INFO – 2023-04-17 13:17:12 – Getting the average temperature and precipitation of last 2 days
+data_processor – INFO – 2023-04-17 13:17:13 – Getting file names of data_municipios directory
+data_processor – INFO – 2023-04-17 13:17:13 – Reading most current file
+data_processor – INFO – 2023-04-17 13:17:13 – The file was read succesfully

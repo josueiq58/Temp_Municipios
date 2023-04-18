@@ -1,0 +1,39 @@
+data_processor – INFO – 2023-04-17 13:19:44 – Getting file names of data_municipios directory
+data_processor – INFO – 2023-04-17 13:19:44 – Reading most current file
+data_processor – INFO – 2023-04-17 13:19:44 – The file was read succesfully
+data_processor – INFO – 2023-04-17 13:19:48 – Downloading data from API
+data_processor – INFO – 2023-04-17 13:19:48 – Downloading data from API
+data_processor – INFO – 2023-04-17 13:19:49 – Response from the API: 200
+data_processor – INFO – 2023-04-17 13:19:49 – Response from the API: 200
+data_processor – INFO – 2023-04-17 13:19:49 – Data succesfully written to daily.gz
+data_processor – INFO – 2023-04-17 13:19:49 – Data succesfully written to daily.gz
+data_processor – INFO – 2023-04-17 13:19:49 – Downloading data from API
+data_processor – INFO – 2023-04-17 13:19:49 – Downloading data from API
+data_processor – INFO – 2023-04-17 13:19:57 – Response from the API: 200
+data_processor – INFO – 2023-04-17 13:19:57 – Response from the API: 200
+data_processor – INFO – 2023-04-17 13:19:57 – Data succesfully written to hourly.gz
+data_processor – INFO – 2023-04-17 13:19:57 – Data succesfully written to hourly.gz
+data_processor – INFO – 2023-04-17 13:19:57 – Uncompressing data
+data_processor – INFO – 2023-04-17 13:19:57 – Uncompressing data
+data_processor – INFO – 2023-04-17 13:19:57 – Data uncompressed successfully
+data_processor – INFO – 2023-04-17 13:19:57 – Data uncompressed successfully
+data_processor – INFO – 2023-04-17 13:19:57 – Uncompressing data
+data_processor – INFO – 2023-04-17 13:19:57 – Uncompressing data
+data_processor – INFO – 2023-04-17 13:19:58 – Data uncompressed successfully
+data_processor – INFO – 2023-04-17 13:19:58 – Data uncompressed successfully
+data_processor – INFO – 2023-04-17 13:20:23 – Getting file names of data_municipios directory
+data_processor – INFO – 2023-04-17 13:20:23 – Getting file names of data_municipios directory
+data_processor – INFO – 2023-04-17 13:20:23 – Reading most current file
+data_processor – INFO – 2023-04-17 13:20:23 – Reading most current file
+data_processor – INFO – 2023-04-17 13:20:23 – The file was read succesfully
+data_processor – INFO – 2023-04-17 13:20:23 – The file was read succesfully
+data_processor – INFO – 2023-04-17 13:20:23 – Converting dloc column to timestamp
+data_processor – INFO – 2023-04-17 13:20:23 – Converting dloc column to timestamp
+data_processor – INFO – 2023-04-17 13:20:26 – Getting the average temperature and precipitation of last 2 days
+data_processor – INFO – 2023-04-17 13:20:26 – Getting the average temperature and precipitation of last 2 days
+data_processor – INFO – 2023-04-17 13:20:27 – Getting file names of data_municipios directory
+data_processor – INFO – 2023-04-17 13:20:27 – Getting file names of data_municipios directory
+data_processor – INFO – 2023-04-17 13:20:27 – Reading most current file
+data_processor – INFO – 2023-04-17 13:20:27 – Reading most current file
+data_processor – INFO – 2023-04-17 13:20:27 – The file was read succesfully
+data_processor – INFO – 2023-04-17 13:20:27 – The file was read succesfully
